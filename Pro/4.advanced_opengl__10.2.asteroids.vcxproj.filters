@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\project\LearnOpenGL\src\4.advanced_opengl\10.2.asteroids\asteroids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\project\LearnOpenGL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\project\LearnOpenGL\src\4.advanced_opengl\10.2.asteroids\10.2.instancing.fs" />
+    <None Include="D:\project\LearnOpenGL\src\4.advanced_opengl\10.2.asteroids\10.2.instancing.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C2BD19F8-0F81-3BD6-A6AA-E5DAC20A7359}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

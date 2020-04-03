@@ -1,0 +1,23 @@
+﻿  Building Custom Rule D:/project/LearnOpenGL/CMakeLists.txt
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  normal_mapping.cpp
+D:\project\LearnOpenGL\includes\learnopengl/filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1191): note: 参见“getenv”的声明
+D:\project\LearnOpenGL\includes\learnopengl/mesh.h(88): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(285): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(286): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(288): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(289): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp(298): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  5.advanced_lighting__4.normal_mapping.vcxproj -> D:\project\LearnOpenGL\bin\5.advanced_lighting\Debug\5.advanced_lighting__4.normal_mapping.exe

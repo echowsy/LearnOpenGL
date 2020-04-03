@@ -1,0 +1,22 @@
+﻿  Building Custom Rule D:/project/LearnOpenGL/CMakeLists.txt
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  advanced_glsl_ubo.cpp
+D:\project\LearnOpenGL\includes\learnopengl/filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1191): note: 参见“getenv”的声明
+D:\project\LearnOpenGL\includes\learnopengl/mesh.h(88): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(269): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(270): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\LearnOpenGL\src\4.advanced_opengl\8.advanced_glsl_ubo\advanced_glsl_ubo.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4.advanced_opengl__8.advanced_glsl_ubo.vcxproj -> D:\project\LearnOpenGL\bin\4.advanced_opengl\Debug\4.advanced_opengl__8.advanced_glsl_ubo.exe

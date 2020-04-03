@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/project/LearnOpenGL/CMakeLists.txt
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  shaders_uniform.cpp
+D:\project\LearnOpenGL\src\1.getting_started\3.1.shaders_uniform\shaders_uniform.cpp(149): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  1.getting_started__3.1.shaders_uniform.vcxproj -> D:\project\LearnOpenGL\bin\1.getting_started\Debug\1.getting_started__3.1.shaders_uniform.exe
